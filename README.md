@@ -2,16 +2,9 @@
 - 👀 I’m interested in Machine Learning, NLP, and Taekwon-Do
 - 🌱 I’m currently researching Question Generation techniques
 - 📫 How to reach me ...
-[1.1]: http://i.imgur.com/tXSoThF.png
-[2.1]: http://i.imgur.com/P3YfQoD.png
-[6.1]: http://i.imgur.com/0o48UoR.png
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://twitter.com/CallumMacClark
-[2]: https://www.facebook.com/callum.clark.1422
-[6]: http://www.github.com/CallumClark
+- [Twitter](https://twitter.com/CallumMacClark)
+- [Facebook](https://www.facebook.com/callum.clark.1422)
+- [Github](http://www.github.com/CallumClark)
 
 
 # PROJECTS
