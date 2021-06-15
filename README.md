@@ -14,7 +14,7 @@
 [6]: http://www.github.com/CallumClark
 
 
-- PROJECTS
+# PROJECTS
 - Currently 1st postion on [MinneApple Fruit Detection Challenge](https://competitions.codalab.org/competitions/21718). 
 - Designed and implemented "The Blender" an piece of software that uses various linear programming methods to design an optimal blend of training deliverables.
 - CTO and Head of Machine Learning at [WildFire Learning](http://www.wildfirelearning.co.uk/). Using Natural Language Processing to automate the progress of creating online learning content
